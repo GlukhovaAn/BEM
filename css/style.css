@@ -435,7 +435,6 @@ list-style: none;
     float: left;
     background-repeat: no-repeat;
     background-position: 50%, 50%;
-    background-size: contain;
     margin-right: 23px;
     margin-top: 5px;
 }
